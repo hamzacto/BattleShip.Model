@@ -1,0 +1,11 @@
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\bin\Debug\net8.0\BattleShip.Models.deps.json
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\bin\Debug\net8.0\BattleShip.Models.dll
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\bin\Debug\net8.0\BattleShip.Models.pdb
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\BattleShip.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\BattleShip.Models.AssemblyInfoInputs.cache
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\BattleShip.Models.AssemblyInfo.cs
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\BattleShip.Models.csproj.CoreCompileInputs.cache
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\BattleShip.Models.dll
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\refint\BattleShip.Models.dll
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\BattleShip.Models.pdb
+C:\Users\user pc\source\repos\BattleShip.API\BattleShip.Models\obj\Debug\net8.0\ref\BattleShip.Models.dll
