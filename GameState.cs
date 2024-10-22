@@ -16,7 +16,7 @@ namespace BattleShip.API.Model
         public List<ShipStatus> PlayerShips { get; set; } // Les bateaux du joueur
         public List<ShipStatus> OpponentShips { get; set; } // Les bateaux de l'adversaire
         public BattleHistory History { get; set; } // Historique des coups
-        public bool IsGameOver { get; private set; } // Indique si le jeu est terminé
+        public bool IsGameOver { get; set; } // Indique si le jeu est terminé
         public string? WinnerId { get; set; } // Identifiant du gagnant 
         public int GameMode { get; set; }
         public int IaLvl { get; set; }
